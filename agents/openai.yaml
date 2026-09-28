@@ -1,0 +1,7 @@
+interface:
+  display_name: "考研政治错题分析"
+  short_description: "把政治错题转成个人提分方案"
+  brand_color: "#2563EB"
+  default_prompt: "Use $kaoyan-politics-mistake-analysis to analyze my personal Chinese postgraduate exam Politics mistakes and create an improvement handbook plus revisit checklist."
+policy:
+  allow_implicit_invocation: true
