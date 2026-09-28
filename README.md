@@ -1,4 +1,4 @@
-# 主 Skill 介绍
+# 考研政治个人错题分析 Skill
 
 ## 名称
 
@@ -91,4 +91,5 @@ kaoyan-politics-mistake-analysis/
 4. 用一份脱敏错题做完整试跑
 5. 确认输出仍然保持考生隔离和上游只读
 ```
+
 
